@@ -1,0 +1,12 @@
+#environment
+.env
+.env.*
+
+#node dependencies
+node_modules/
+
+#vscode
+.vscode
+
+#logs
+.logs
